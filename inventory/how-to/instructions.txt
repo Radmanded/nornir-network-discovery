@@ -1,0 +1,3 @@
+# THis is where I note steps for the configuration. Ensure an inventory file is created for the hosts.yaml, groups.yaml, and the defaults.yaml
+
+https://nornir.readthedocs.io/en/latest/tutorial/inventory.html

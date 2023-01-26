@@ -1,0 +1,8 @@
+---
+  cat9k-test-ztp:
+      hostname: 10.8.26.200 
+      port: 8015 
+      username: devnet
+      password: devn3t4EVER! 
+      platform: ios 
+
